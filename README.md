@@ -14,13 +14,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian Federation.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- [![CodeWars](https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png)](https://www.codewars.com/users/walleri1)
+- :zap: In my free time, I solve problems on [CodeWars](https://www.codewars.com/users/walleri1) and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin vitalyturov1997](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalyturov1997/)
 
@@ -75,6 +74,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :bug: Portfolio :
+
 ---
 
 ### :writing_hand: Blog Posts :
