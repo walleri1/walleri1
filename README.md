@@ -71,13 +71,15 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&layout=compact&theme=vision-friendly-dark)
+![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)
 ---
 
 ### :bug: Portfolio :
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)
 ---
 
 ### :writing_hand: Blog Posts :
