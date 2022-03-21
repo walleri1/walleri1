@@ -79,9 +79,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :bug: Portfolio :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)
+- Diploma:</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br>
 ---
 
 ### :writing_hand: Blog Posts :
