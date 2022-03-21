@@ -73,9 +73,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)](https://git.io/streak-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</br>
+![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)</br>
 ---
 
 ### :bug: Portfolio :
