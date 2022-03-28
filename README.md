@@ -14,7 +14,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a C/C++ Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian Federation.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian Federation.
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
