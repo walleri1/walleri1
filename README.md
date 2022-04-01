@@ -85,7 +85,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br>
 ---
-
-<!-- ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
