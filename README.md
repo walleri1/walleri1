@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn vitalyturov1997"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=walleri1&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,7 +21,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on [CodeWars](https://www.codewars.com/users/walleri1), [LeetCode](https://leetcode.com/walleri1/) and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin vitalyturov1997](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalyturov1997/)
+- :mailbox:How to reach me: [![Linkedin vitalyturov1997](https://img.shields.io/badge/-vitaliy_turov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalyturov1997/)
 
 ---
 
@@ -47,7 +47,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;</br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;</br></br>
   <!--  Tools  -->
   - Tools: 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -73,8 +73,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&langs_count=100&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000&count_private=true)](https://git.io/streak-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&langs_count=100&theme=dark&background=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)</br>
 ---
 
@@ -86,6 +86,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br>
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
