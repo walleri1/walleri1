@@ -28,7 +28,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :hammer_and_wrench: Languages and Tools :
   <div>
     <!--   Languages   -->
-  - Languages & technology: 
+  - Languages & technology:
+  [!(https://img.shields.io/badge/-vitaliy_turov-blue?style=flat&logo=Linkedin&logoColor=white)]
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; -->
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; -->
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp; -->
