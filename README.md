@@ -22,6 +22,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I solve problems on [CodeWars](https://www.codewars.com/users/walleri1), [LeetCode](https://leetcode.com/walleri1/) and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin vitalyturov1997](https://img.shields.io/badge/-vitaliy_turov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalyturov1997/)
+- My web site: https://vitaliy-turov.vercel.app
 
 ---
 
