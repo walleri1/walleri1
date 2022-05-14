@@ -56,5 +56,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - Other projects:</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=portfolio-homepage)](https://github.com/walleri1/portfolio-homepage)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=Probability-theory.-Laboratory-work.-Qt)](https://github.com/walleri1/Probability-theory.-Laboratory-work.-Qt)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TestTaskTanchikiUE5)](https://github.com/walleri1/TestTaskTanchikiUE5)</br>
 ---
