@@ -42,7 +42,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&background=000000&count_private=true)](https://git.io/streak-stats)</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&langs_count=100&theme=dark&background=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)</br>
 ---
