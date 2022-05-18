@@ -48,11 +48,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :bug: Portfolio :
-- Diploma:</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)</br>
+<!-- - Diploma:</br> -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_client)](https://github.com/walleri1/telady_client)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br> -->
 - Other projects:</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=portfolio-homepage)](https://github.com/walleri1/portfolio-homepage)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=Probability-theory.-Laboratory-work.-Qt)](https://github.com/walleri1/Probability-theory.-Laboratory-work.-Qt)</br>
