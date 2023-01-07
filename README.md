@@ -1,60 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vitalyturov1997/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn vitalyturov1997"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=walleri1&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaliy Turov 
 
----
+## Backend and mobile developer
 
-### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian Federation.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+I am currently working as a software developer at Eureka in St. Petersburg. In my free time I like to learn new things like web development, mobile development and desktop application development.  * 🌍  I'm based in Saint-Petersburg * 🖥️  See my portfolio at [My website](http://vitaliy-turov.vercel.app) * ✉️  You can contact me at [walleri1@yandex.ru](mailto:walleri1@yandex.ru) * 🧠  I'm learning Rust, C++20/23, Python, Android * 🤝  I'm open to collaborating on backend and mobile development * ⚡  In the future it will be interesting to try using AI
 
-- :seedling: Exploring Technical Content Writing.
+<a href="https://www.github.com/walleri1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/walleri1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills  
 
-- :zap: In my free time, I solve problems on [CodeWars](https://www.codewars.com/users/walleri1), [LeetCode](https://leetcode.com/walleri1/) and read tech articles.
+<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
 
-- :mailbox:How to reach me: [![Linkedin vitalyturov1997](https://img.shields.io/badge/-vitaliy_turov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalyturov1997/)
-- My [web site](https://vitaliy-turov.vercel.app)
+### Socials  <p align="left"> <a href="https://www.github.com/walleri1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vitalyturov1997/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
----
+### Badges
 
-### :hammer_and_wrench: Languages and Tools, and Platforms :
-#### :information_desk_person: Languages
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python) ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b) ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java) ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin) ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift) ![Lua](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript) ![NodeJS](https://img.shields.io/badge/-Node.JS-090909?style=for-the-badge&logo=node.js) 
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite)
+<b>My GitHub Stats</b>
 
-#### :hammer: Tools
-![Qt](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=qt)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react) ![ChakraUI](https://img.shields.io/badge/-ChakraUI-090909?style=for-the-badge&logo=chakraui) ![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
-
-#### :computer: Platforms
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android) ![iOS](https://img.shields.io/badge/-iOS-090909?style=for-the-badge&logo=ios)
-![macOS](https://img.shields.io/badge/-macOS-090909?style=for-the-badge&logo=macOS) ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walleri1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&langs_count=100&theme=dark&background=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)</br>
-![Vitaliy Turov GitHub stats](https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&theme=radical&count_private=true)</br>
----
-
-### :bug: Portfolio :
-<!-- - Diploma:</br> -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_system)](https://github.com/walleri1/telady_system)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=telady_client)](https://github.com/walleri1/telady_client)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileApple)](https://github.com/walleri1/TeladyMobileApple)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TeladyMobileAndroid)](https://github.com/walleri1/TeladyMobileAndroid)</br> -->
-- Other projects:</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=portfolio-homepage)](https://github.com/walleri1/portfolio-homepage)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=Probability-theory.-Laboratory-work.-Qt)](https://github.com/walleri1/Probability-theory.-Laboratory-work.-Qt)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walleri1&repo=TestTaskUE5)](https://github.com/walleri1/TestTaskUE5)</br>
----
+<a href="http://www.github.com/walleri1"><img src="https://github-readme-stats.vercel.app/api?username=walleri1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="walleri1's GitHub stats" /></a>
+<a href="http://www.github.com/walleri1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=walleri1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/walleri1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=walleri1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/walleri1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleri1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
