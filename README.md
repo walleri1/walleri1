@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaliy Turov 
 
-## Backend and mobile developer
+## Backend developer
 
 I am currently working as a software developer at Eureka in St. Petersburg. In my free time I like to learn new things like web development, mobile development and desktop application development.
 * 🌍  I'm based in Saint-Petersburg 
