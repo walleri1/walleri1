@@ -1,14 +1,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitaliy Turov 
 
 ## Backend developer
-
-I am currently working as a software developer at Eureka in St. Petersburg. In my free time I like to learn new things like web development, mobile development and desktop application development.
 * 🌍  I'm based in Saint-Petersburg 
 *  🖥️  See my portfolio at [My website](http://vitaliy-turov.vercel.app) 
-*  ✉️  You can contact me at [walleri1@yandex.ru](mailto:walleri1@yandex.ru) 
-*  🧠  I'm learning Rust, C++20/23, Python, Android 
-*  🤝  I'm open to collaborating on backend and mobile development 
-*  ⚡  In the future it will be interesting to try using AI
+*  ✉️  You can contact me at [walleri1@yandex.ru](mailto:walleri1@yandex.ru)
+*  🤝  I'm open to collaborating on backend development
 
 <a href="https://www.github.com/walleri1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/walleri1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
