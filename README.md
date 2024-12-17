@@ -2,7 +2,6 @@
 
 ## Backend developer
 * 🌍  I'm based in Saint-Petersburg 
-*  🖥️  See my portfolio at [My website](http://vitaliy-turov.vercel.app) 
 *  ✉️  You can contact me at [walleri1@yandex.ru](mailto:walleri1@yandex.ru)
 *  🤝  I'm open to collaborating on backend development
 
